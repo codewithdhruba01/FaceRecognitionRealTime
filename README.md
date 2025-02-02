@@ -56,7 +56,7 @@ Face-Attendance-System/
 ## Installation & Setup
 ### 1️⃣ Clone the Repository
 ```bash
-git clone https://github.com/yourusername/Face-Recognition-Attendance.git
+git clone https://github.com/codewithdhruba01/FaceRecognitionRealTime.git
 cd Face-Recognition-Attendance
 ```
 
@@ -120,7 +120,7 @@ This project is open-source and available under the MIT License.
 ---
 
 ## Contributors
-👤 Your Name - **[GitHub Profile](https://github.com/yourusername)**  
+👤 Dhrubaraj Pati - **[GitHub Profile](https://github.com/codewithdhruba01)**  
 
 ---
 
